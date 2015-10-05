@@ -11,3 +11,9 @@
 /weasyprint/tests/w3_test_suite/test_results
 /.vagrant
 /docs/_build
+.idea/.name
+.idea/Weasyprint.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
